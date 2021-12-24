@@ -1,11 +1,11 @@
 pipeline {
     agent any
     stages {
-        stage('Git') {
-            steps {
-                git 'https://github.com/solnce52004/test10_admin_jenkins.git'
-            }
-        }
+//         stage('Git') {
+//             steps {
+//                 git 'https://github.com/solnce52004/test10_admin_jenkins.git'
+//             }
+//         }
         stage('Build') {
             steps {
                 sh "./gradlew build"
