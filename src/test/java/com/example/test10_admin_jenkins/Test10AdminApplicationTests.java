@@ -1,4 +1,4 @@
-package com.example.test10_admin;
+package com.example.test10_admin_jenkins;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.example.test10_admin;
+package com.example.test10_admin_jenkins;
 
 import de.codecentric.boot.admin.server.config.EnableAdminServer;
 import lombok.extern.slf4j.Slf4j;
